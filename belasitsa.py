@@ -7,7 +7,7 @@
 import sys
 from uuid import uuid4
 from cStringIO import StringIO
-import simplejson as json
+import json
 
 import zmq.green as zmq
 import gevent
